@@ -6,6 +6,8 @@ def speak_to_grandma (call)
     else
       "NO, NOT SINCE 1938!"
     end
+  else
+    "HUH?! SPEAK UP, SONNY!"
   end
     
 end
