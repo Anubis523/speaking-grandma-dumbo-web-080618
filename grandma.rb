@@ -3,6 +3,8 @@ def speak_to_grandma (call)
   if (call.upcase == call)
   if (call == "I LOVE YOU GRANDMA!")
     'I LOVE YOU TOO PUMPKIN!'
+  else
+    "NO, NOT SINCE 1938!"
     
 end
 # Whatever you say to grandma, she should respond with
