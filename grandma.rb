@@ -2,7 +2,7 @@
 def speak_to_grandma (call)
   if (call.upcase == "I LOVE YOU GRANDMA!")
     'I LOVE YOU TOO PUMPKIN!'
-  elsif ()
+  elsif (call.upcase == call)
     
 end
 # Whatever you say to grandma, she should respond with
